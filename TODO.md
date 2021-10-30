@@ -8,4 +8,4 @@ Here is a list of tasks without sorting with execution notes.
 
 ## Concrete
 
-1. [-] add GitHub flow;
+1. [+] add GitHub flow;
